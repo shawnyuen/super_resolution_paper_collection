@@ -12,3 +12,5 @@
 ### 2016
 #### (VESPCN) Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation [[paper]](https://arxiv.org/abs/1611.05250)
 #### Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution [[paper]](https://arxiv.org/abs/1611.07767)
+### 2017
+#### Detail-revealing Deep Video Super-resolution [[paper]](https://arxiv.org/abs/1704.02738)
