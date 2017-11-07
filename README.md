@@ -9,6 +9,8 @@
 #### Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks [[paper]](https://arxiv.org/abs/1710.01992)
 
 ## Video
+### 2015
+#### Handling Motion Blur in Multi-Frame Super-Resolution [[paper]](http://www.cse.cuhk.edu.hk/leojia/projects/mfsr/index.html)
 ### 2016
 #### (VESPCN) Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation [[paper]](https://arxiv.org/abs/1611.05250)
 #### Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution [[paper]](https://arxiv.org/abs/1611.07767)
