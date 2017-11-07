@@ -13,7 +13,8 @@
 ### 2017
 #### Detail-revealing Deep Video Super-resolution [[paper]](https://arxiv.org/abs/1704.02738)
 #### A Nuclear-norm Model for Multi-Frame Super-Resolution Reconstruction from Video Clips [[paper]](https://arxiv.org/abs/1704.06196)
-### A New Adaptive Video SRR Algorithm With Improved Robustness to Innovations [[paper]](https://arxiv.org/abs/1706.04695)
+#### A New Adaptive Video SRR Algorithm With Improved Robustness to Innovations [[paper]](https://arxiv.org/abs/1706.04695)
+#### A Framework for Super-Resolution of Scalable Video via Sparse Reconstruction of Residual Frames [[paper]](https://arxiv.org/abs/1707.09926)
 ### 2016
 #### (VESPCN) Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation [[paper]](https://arxiv.org/abs/1611.05250)
 #### Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution [[paper]](https://arxiv.org/abs/1611.07767)
