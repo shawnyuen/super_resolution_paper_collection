@@ -7,6 +7,8 @@
 ## Image
 ### 2017
 #### Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks [[paper]](https://arxiv.org/abs/1710.01992)
+### 2016
+#### Perceptual Losses for Real-time Style Transfer and Super-resolution [[paper]](https://arxiv.org/abs/1603.08155) [[code]](https://github.com/jcjohnson/neural-style)
 
 ## Video
 #### Video Enhancer [[website]](http://www.infognition.com/videoenhancer/)
