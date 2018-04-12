@@ -5,6 +5,8 @@
 #### Audio Super Resolution using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
 
 ## Image
+### 2018
+#### A Fully Progressive Approach to Single-Image Super-Resolution [[paper]](https://arxiv.org/abs/1804.02900)
 ### 2017
 #### Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks [[paper]](https://arxiv.org/abs/1710.01992)
 #### "Zero-Shot" Super-Resolution Using Deep Internal Learning [[paper]]()
