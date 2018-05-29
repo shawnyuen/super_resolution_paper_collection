@@ -18,11 +18,14 @@
 #### Learning a Single Convolutional Super-Resolution Network for Multiple Degradations 2017 [[paper]](https://arxiv.org/abs/1712.06116)
 #### Image Super-Resolution Using Dense Skip Connections ICCV 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.html)
 #### (IRCNN) Learning Deep CNN Denoiser Prior for Image Restoration 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
-#### (DRRN) Image Super-Resolution via Deep Recursive Residual Network 2017 [[paper]]()
+#### (DRRN) Image Super-Resolution via Deep Recursive Residual Network 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tai_Image_Super-Resolution_via_CVPR_2017_paper.html)
+#### (SRResNet;SRGAN)Photo-realistic Single Image Super-resolution Using a Generative Adversarial Network 2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)
 ### 2016
 #### Perceptual Losses for Real-time Style Transfer and Super-resolution [[paper]](https://arxiv.org/abs/1603.08155) [[code]](https://github.com/jcjohnson/neural-style)
 #### (VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html)
 #### (DRCN) Deeply-recursive Convolutional Network for Image Super-resolution 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.html)
+#### (FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network ECCV 2016 [[paper]](http://arxiv.org/abs/1608.00367)
+#### (ESPCN) Real-time Single Image and Video Super-resolution Using an Efficient Sub-pixel Convolutional Neural Network 2016 [[paper]](http://ieeexplore.ieee.org/document/7780576/)
 ### 2015
 #### Single Image Super-Resolution From Transformed Self-Exemplars [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.html)
 ### 2014
