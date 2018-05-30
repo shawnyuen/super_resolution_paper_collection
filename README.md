@@ -1,7 +1,7 @@
 # SuperResolutionPaperCollection
 ## NTIRE Challenge
-### NTIRE 2017 Challenge on Single Image Super-Resolution Dataset and Study [[paper]]()
-### NTIRE 2017 Challenge on Single Image Super-Resolution Methods and Results [[paper]]()
+#### NTIRE 2017 Challenge on Single Image Super-Resolution Dataset and Study [[paper]]()
+#### NTIRE 2017 Challenge on Single Image Super-Resolution Methods and Results [[paper]]()
 ## Audio
 ### 2017
 #### Audio Super Resolution using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
@@ -28,10 +28,12 @@
 #### (DRCN) Deeply-recursive Convolutional Network for Image Super-resolution 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.html)
 #### (FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network ECCV 2016 [[paper]](http://arxiv.org/abs/1608.00367)
 #### (ESPCN) Real-time Single Image and Video Super-resolution Using an Efficient Sub-pixel Convolutional Neural Network 2016 [[paper]](http://ieeexplore.ieee.org/document/7780576/)
+#### Seven Ways to Improve Example-based Single Image Super Resolution 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Timofte_Seven_Ways_to_CVPR_2016_paper.pdf)
 ### 2015
 #### Single Image Super-Resolution From Transformed Self-Exemplars [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.html)
 ### 2014
 #### (SRCNN) Learning a Deep Convolutional Network for Image Super-resolution 2014 [[paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-10593-2_13)
+#### (SPMSR) A Statistical Prediction Model Based on Sparse Representations for Single Image Super-Resolution 2014 [[paper]](https://ieeexplore.ieee.org/document/6739068/)
 
 ## Video
 #### Video Enhancer [[website]](http://www.infognition.com/videoenhancer/)
