@@ -26,6 +26,7 @@
 #### (DRRN) Image Super-Resolution via Deep Recursive Residual Network 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Tai_Image_Super-Resolution_via_CVPR_2017_paper.html)
 #### (SRResNet;SRGAN)Photo-realistic Single Image Super-resolution Using a Generative Adversarial Network 2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)
 #### EnhanceNet Single Image Super-Resolution Through Automated Texture Synthesis 2017 [[paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.html)
+#### Balanced Two-Stage Residual Networks for Image Super-Resolution 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Fan_Balanced_Two-Stage_Residual_CVPR_2017_paper.html)
 ### 2016
 #### Perceptual Losses for Real-time Style Transfer and Super-resolution [[paper]](https://arxiv.org/abs/1603.08155) [[code]](https://github.com/jcjohnson/neural-style)
 #### (VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html)
