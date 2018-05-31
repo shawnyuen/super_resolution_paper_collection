@@ -10,6 +10,8 @@
 ### 2018
 #### A Fully Progressive Approach to Single-Image Super-Resolution [[paper]](https://arxiv.org/abs/1804.02900)
 #### Residual Dense Network for Image Super-Resolution [[paper]](https://arxiv.org/abs/1802.08797)
+#### Fast and Accurate Single Image Super-Resolution via Information Distillation Network 2018 [[paper]](https://arxiv.org/abs/1803.09454)
+#### (SFT-GAN) Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform 2018 [[paper]](https://arxiv.org/abs/1804.02815)
 ### 2017
 #### Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks [[paper]](https://arxiv.org/abs/1710.01992)
 #### "Zero-Shot" Super-Resolution Using Deep Internal Learning [[paper]]()
