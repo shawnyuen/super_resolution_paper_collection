@@ -6,6 +6,7 @@
 
 ## Review
 ### Deep Learning for Image Super-resolution A Survey 2019 [[paper]](https://arxiv.org/abs/1902.06068)
+### A Deep Journey into Super-resolution: A survey 2019 [[paper]](https://arxiv.org/abs/1904.07523)
 
 ## Audio
 ### 2017
