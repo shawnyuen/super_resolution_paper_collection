@@ -10,9 +10,12 @@
 
 ## Audio
 ### 2017
-#### Audio Super Resolution using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
+#### Audio Super Resolution Using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
 
 ## Image
+### 2020
+### Attention-based Image Upsampling arXiv 2020 [[paper]]()
+
 ### 2019
 ### Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis IEEE TCSVT [[paper]](https://ieeexplore.ieee.org/document/8443445)
 
