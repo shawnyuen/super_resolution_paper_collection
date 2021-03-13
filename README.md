@@ -13,6 +13,9 @@
 #### Audio Super Resolution Using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
 
 ## Image
+### 2021
+### ClassSR A General Framework to Accelerate Super-Resolution Networks by Data Characteristic CVPR 2021 [[paper]](https://arxiv.org/abs/2103.04039)
+
 ### 2020
 ### Attention-based Image Upsampling arXiv 2020 [[paper]]()
 
