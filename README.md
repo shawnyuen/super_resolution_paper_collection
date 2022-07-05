@@ -18,6 +18,7 @@
 
 ### 2020
 ### Attention-based Image Upsampling arXiv 2020 [[paper]]()
+### Single Image Super-Resolution via a Holistic Attention Network ECCV 2020 [[paper]]()
 
 ### 2019
 ### Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis IEEE TCSVT [[paper]](https://ieeexplore.ieee.org/document/8443445)
