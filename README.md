@@ -72,6 +72,9 @@
 ## Video
 ### Video Enhancer [[website]](http://www.infognition.com/videoenhancer/)
 
+### 2020
+### Channel Attention Is All You Need for Video Frame Interpolation AAAI 2020 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6693)
+
 ### 2018
 ### Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.html)
 ### Frame-Recurrent Video Super-Resolution CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.html)
