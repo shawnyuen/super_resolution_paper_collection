@@ -55,13 +55,14 @@
 ### Balanced Two-Stage Residual Networks for Image Super-Resolution 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Fan_Balanced_Two-Stage_Residual_CVPR_2017_paper.html)
 
 ### 2016
-### Perceptual Losses for Real-time Style Transfer and Super-resolution [[paper]](https://arxiv.org/abs/1603.08155) [[code]](https://github.com/jcjohnson/neural-style)
-### (VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html)
-### (DRCN) Deeply-recursive Convolutional Network for Image Super-resolution CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.html)
 ### (FSRCNN) Accelerating the Super-Resolution Convolutional Neural Network ECCV 2016 [[paper]](http://arxiv.org/abs/1608.00367)
+### (VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html)
+### End-to-End Image Super-Resolution via Deep and Shallow Convolutional Networks IEEE Access 2019 [[arXiv]](http://arxiv.org/abs/1607.07680) [[paper]](https://ieeexplore.ieee.org/document/8666711)
+### (DRCN) Deeply-recursive Convolutional Network for Image Super-resolution CVPR 2016 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.html)
+### (SRCNN) Learning a Deep Convolutional Network for Image Super-resolution IEEE TMAPI 2016 [[paper]]()
+### Perceptual Losses for Real-time Style Transfer and Super-resolution [[paper]](https://arxiv.org/abs/1603.08155) [[code]](https://github.com/jcjohnson/neural-style)
 ### (ESPCN) Real-time Single Image and Video Super-resolution Using an Efficient Sub-pixel Convolutional Neural Network CVPR 2016 [[paper]](http://ieeexplore.ieee.org/document/7780576/)
 ### Seven Ways to Improve Example-based Single Image Super Resolution CVPR 2016 [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Timofte_Seven_Ways_to_CVPR_2016_paper.pdf)
-### (SRCNN) Learning a Deep Convolutional Network for Image Super-resolution IEEE TMAPI 2016 [[paper]]()
 
 ### 2015
 ### Single Image Super-Resolution From Transformed Self-Exemplars [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.html)
