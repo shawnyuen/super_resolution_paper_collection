@@ -1,4 +1,5 @@
-# SuperResolutionPaperCollection
+# super_resolution_paper_collection
+
 ## NTIRE Challenge
 ### NTIRE 2018 Challenge on Single Image Super-Resolution: Methods and Results CVPRW 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Timofte_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 ### NTIRE 2017 Challenge on Single Image Super-Resolution Dataset and Study CVPRW 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Agustsson_NTIRE_2017_Challenge_CVPR_2017_paper.html)
