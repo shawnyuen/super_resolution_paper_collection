@@ -14,6 +14,9 @@
 #### Audio Super Resolution Using Neural Networks [[paper]](https://arxiv.org/abs/1708.00853)
 
 ## Image
+### 2023
+### Bicubic++ - Slim - Slimmer - Slimmest -- Designing an Industry-Grade Super-Resolution Network CVPR 2023
+
 ### 2021
 ### ClassSR A General Framework to Accelerate Super-Resolution Networks by Data Characteristic CVPR 2021 [[paper]](https://arxiv.org/abs/2103.04039)
 
@@ -74,6 +77,9 @@
 
 ## Video
 ### Video Enhancer [[website]](http://www.infognition.com/videoenhancer/)
+
+### 2023
+### AMT - All-Pairs Multi-Field Transforms for Efficient Frame Interpolation CVPR 2023 [[paper]](https://arxiv.org/abs/2304.09790)
 
 ### 2020
 ### Channel Attention Is All You Need for Video Frame Interpolation AAAI 2020 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6693)
