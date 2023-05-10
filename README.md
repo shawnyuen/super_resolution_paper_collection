@@ -15,13 +15,29 @@
 
 ## Image
 ### 2023
+### Activating More Pixels in Image Super-Resolution Transformer CVPR 2023
+### Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution CVPR 2023
 ### Bicubic++ - Slim - Slimmer - Slimmest -- Designing an Industry-Grade Super-Resolution Network CVPR 2023
+### CABM - Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input CVPR 2023
+### Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution CVPR 2023
+### CiaoSR - Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution CVPR 2023
+### Human Guided Ground-truth Generation for Realistic Image Super-resolution CVPR 2023
+### Image Super-Resolution Using T-Tetromino Pixels CVPR 2023
+### Learning Generative Structure Prior for Blind Text Image Super-resolution CVPR 2023
+### Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution CVPR 2023
+### N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution CVPR 2023
+### Omni Aggregation Networks for Lightweight Image Super-Resolution CVPR 2023
+### OPE-SR - Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution CVPR 2023
+### OSRT - Omnidirectional Image Super-Resolution with Distortion-aware Transformer CVPR 2023
+### Perception-Oriented Single Image Super-Resolution using Optimal Objective Estimation CVPR 2023
+### Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective CVPR 2023
 
 ### 2021
 ### ClassSR A General Framework to Accelerate Super-Resolution Networks by Data Characteristic CVPR 2021 [[paper]](https://arxiv.org/abs/2103.04039)
 
 ### 2020
 ### Attention-based Image Upsampling arXiv 2020 [[paper]]()
+### Learned Image Downscaling for Upscaling Using Content Adaptive Resampler IEEE TIP 2020 [[paper]](https://ieeexplore.ieee.org/document/8982168) [[arXiv paper]](https://arxiv.org/abs/1907.12904)
 ### Single Image Super-Resolution via a Holistic Attention Network ECCV 2020 [[paper]]()
 
 ### 2019
@@ -80,6 +96,9 @@
 
 ### 2023
 ### AMT - All-Pairs Multi-Field Transforms for Efficient Frame Interpolation CVPR 2023 [[paper]](https://arxiv.org/abs/2304.09790)
+### Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution CVPR 2023
+### Structured Sparsity Learning for Efficient Video Super-Resolution CVPR 2023
+### Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting CVPR 2023
 
 ### 2020
 ### Channel Attention Is All You Need for Video Frame Interpolation AAAI 2020 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6693)
